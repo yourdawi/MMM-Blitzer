@@ -5,7 +5,7 @@ Module to display radar traps around
 Based on atudo.net api / blitzer.de
 
 After i found the blitzer.de HACS integration for HomeAssistant by [@timniklas](https://github.com/timniklas) i also wanted something simular for MagicMirror²
-So he did the api stuff and i just had to look through it. Thanks for this.
+So he did the api stuff and i just had to look through it. Thanks for your work (if you are using HA, take a look at his integration).
 
 ------------
 
